@@ -1,0 +1,38 @@
+id: IF355BFE4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:56:06.706511'
+last_modified: '2022-06-18T20:56:06.706523'
+parser: null
+source_metadata:
+  title: Record of Teachings Received by Gong dkar Phrin las rnam rgyals (17th cent.)
+  author: gong dkar phrin las rnam rgyal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-01-18); no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by the rDzong pa'i
+    dpe rnying 'tshol bsdu khang. (src)
+  - Text input:rdzong pa'i dpe rnying 'tshol bsdu khang / (Tibet) (dpn)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/3131
+  bases:
+    ff77:
+      title: Record of Teachings Received by Gong dkar Phrin las rnam rgyals (17th
+        cent.)
+      order: 1
+      base_file: ff77.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
